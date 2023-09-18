@@ -3,6 +3,11 @@ import 'dart:io';
 
 void main() {
   int n = 10;
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 4bd7eb9 (second commit)
   int largest = 0;
 
   for (int i = 1; i <= n; i++) {
